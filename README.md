@@ -15,10 +15,10 @@ Talk to me about:
 - Solving algorithms in **Java and Python**.
 - Currently learning technologies related to **Machine Learning**.
 
-### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=[https://github.com/Defcon27/](https://github.com/akhilsurnedi5479/))](https://github.com/akhilsurnedi5479/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/akhilsurnedi5479/](https://github.com/akhilsurnedi5479/))](https://www.linkedin.com/in/akhilsurnedi5479/)
-[![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhilsurnedi5479@gmail.com)](mailto:akhilsurnedi5479@gmail.com)
+### 📬 Connect with me at
+[![Github Badge](http://img.shields.io/badge/-akhilsurnedi5479-black?style=flat-square&logo=github&link=[https://github.com/Defcon27/](https://github.com/akhilsurnedi5479/))](https://github.com/akhilsurnedi5479/) 
+[![Linkedin Badge](https://img.shields.io/badge/-akhilsurnedi5479-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/akhilsurnedi5479/](https://github.com/akhilsurnedi5479/))](https://www.linkedin.com/in/akhilsurnedi5479/)
+[![Gmail Badge](https://img.shields.io/badge/-akhilsurnedi5479@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhilsurnedi5479@gmail.com)](mailto:akhilsurnedi5479@gmail.com)
 
 
 
