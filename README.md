@@ -21,9 +21,7 @@ Talk to me about:
 [![Gmail Badge](https://img.shields.io/badge/-akhilsurnedi5479@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhilsurnedi5479@gmail.com)](mailto:akhilsurnedi5479@gmail.com)
 
 
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsurnedi5479&layout=compact&theme=dracula)
 
 
 <!--
