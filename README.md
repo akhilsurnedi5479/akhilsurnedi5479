@@ -1,7 +1,7 @@
 ## Akhil Surnedi
 
 ### Hello there!! 👋
-
+<!--
 - I am a Engineering graduate from **National Institute of Technology**, Silchar, Assam. <br>
 - 3 years of experience as software engineer at Cognizant. <br>
 - Currently getting my post graduation certificate from `Lambton college, Toronto`
@@ -14,7 +14,7 @@ Talk to me about:
 - Container orchestration using **Kubernetes, Rancher**.
 - Solving algorithms in **Java and Python**.
 - Currently learning technologies related to **Machine Learning**.
-
+-->
 ### 📬 Connect with me at
 [![Github Badge](http://img.shields.io/badge/-akhilsurnedi5479-black?style=flat-square&logo=github&link=[https://github.com/Defcon27/](https://github.com/akhilsurnedi5479/))](https://github.com/akhilsurnedi5479/) 
 [![Linkedin Badge](https://img.shields.io/badge/-akhilsurnedi5479-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/akhilsurnedi5479/](https://github.com/akhilsurnedi5479/))](https://www.linkedin.com/in/akhilsurnedi5479/)
