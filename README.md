@@ -18,7 +18,7 @@ Talk to me about:
 ### 📬 Connect with me at
 [![Github Badge](http://img.shields.io/badge/-akhilsurnedi5479-black?style=flat-square&logo=github&link=[https://github.com/Defcon27/](https://github.com/akhilsurnedi5479/))](https://github.com/akhilsurnedi5479/) 
 [![Linkedin Badge](https://img.shields.io/badge/-akhilsurnedi5479-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/akhilsurnedi5479/](https://github.com/akhilsurnedi5479/))](https://www.linkedin.com/in/akhilsurnedi5479/)
-[![Gmail Badge](https://img.shields.io/badge/-akhilsurnedi5479@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhilsurnedi5479@gmail.com)](mailto:akhilsurnedi5479@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhilsurnedi5479@gmail.com)](mailto:akhilsurnedi5479@gmail.com)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsurnedi5479&layout=compact&theme=dracula)
